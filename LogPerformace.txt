@@ -1,0 +1,23 @@
+Algoritmo: Shell Sort | Tamanho:1000000 rows | Tempo: 375.00 Milisegundos | Randomico 
+Algoritmo: Shell Sort | Tamanho:750000 rows | Tempo: 265.00 Milisegundos | Randomico 
+Algoritmo: Shell Sort | Tamanho:500000 rows | Tempo: 172.00 Milisegundos | Randomico
+
+Algoritmo: Shell Sort | Tamanho:1000000 rows | Tempo: 110.00 Milisegundos | Invertido 
+Algoritmo: Shell Sort | Tamanho:750000 rows | Tempo: 62.00 Milisegundos | Invertido
+Algoritmo: Shell Sort | Tamanho:500000 rows | Tempo: 47.00 Milisegundos | Invertido 
+
+Algoritmo: Shell Sort | Tamanho:1000000 rows | Tempo: 47.00 Milisegundos | Ordenado 
+Algoritmo: Shell Sort | Tamanho:750000 rows | Tempo: 47.00 Milisegundos | Ordenado
+Algoritmo: Shell Sort | Tamanho:500000 rows | Tempo: 15.00 Milisegundos | Ordenado
+
+Algoritmo: Selection Sort | Tamanho:500000 rows | Tempo: 377171.00 Milisegundos | Ordenado 
+Algoritmo: Selection Sort | Tamanho:750000 rows | Tempo: 801098.00 Milisegundos | Ordenado 
+Algoritmo: Selection Sort | Tamanho:1000000 rows | Tempo: 1309139.00 Milisegundos | Ordenado 
+
+Algoritmo: Selection Sort | Tamanho:500000 rows | Tempo: 408895.00 Milisegundos | Invertido 
+Algoritmo: Selection Sort | Tamanho:750000 rows | Tempo: 819480.00 Milisegundos | Invertido 
+Algoritmo: Selection Sort | Tamanho:1000000 rows | Tempo: 1297974.00 Milisegundos | Invertido 
+
+Algoritmo: Selection Sort | Tamanho:1000000 rows | Tempo: 1289226.00 Milisegundos | Randomico 
+Algoritmo: Selection Sort | Tamanho:500000 rows | Tempo: 282907.00 Milisegundos | Randomico 
+Algoritmo: Selection Sort | Tamanho:750000 rows | Tempo: 636253.00 Milisegundos | Invertido 
